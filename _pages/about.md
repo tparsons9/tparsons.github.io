@@ -15,4 +15,4 @@ Welcome to my academic profile! I am currently an Empirical Research Fellow at N
 I am interested in the intersection of quantitative marketing and public policy, with a focus on econometric techniques. Particularly, my interests are in using marketing as a tool to boost health outcomes, clean-energy choices, and consumer welfare. A selection of my writings (including working papers and writing samples) are included in their respective pages. 
 
 ## Site 
-On this academic profile, I include writing samples, which feature research ideas that I have yet to implement studies, working papers, and blog posts on my research journey. My CV is also included in a separate section. I welcome all comments and suggestions for current and future research!
+On this academic profile, I include writing samples, which feature research ideas that I have yet to implement as studies, working papers, and blog posts on my research journey. My CV is also included in a separate section. I welcome all comments and suggestions for current and future research!
