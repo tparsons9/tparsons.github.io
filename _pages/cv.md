@@ -15,7 +15,7 @@ Education
 * M.S. in Computational Analytics, Georgia Institute of Technology, 2022
 
 
-Work experience
+Research experience
 ======
 * June 2022 - Pres.: Empirical Research Fellow
   * Northwestern University - Kellogg School of Managment
@@ -23,17 +23,31 @@ Work experience
 
 * May 2020 - June 2021
   * University of Virginia - Darden School of Business
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Advisor: Tami Kim
+
+* May 2017 - June 2022
+  * Clemson University - Marketing Dept. 
+  * Advisor: Anastasia Thyroff
+
+* May 2021 - June 2022
+  *  George Washington University - Institute for European, Russian, and Eurasian Studies
+  *  Advisor: Yuval Weber
+
+
+
+Professional experience
+======
+* 2022 - Pres.: Chief Technology Officer, Corus.io
+* 2021 - 2022: Data Science Consultant, United States Department of Defense
+* 2021 - 2022: Case Researcher, University of Virginia - Darden School of Business
+* 2018 - 2022: Sales Engineer, Siemens Industry
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python 
+* R
+* STATA 
 
 Publications
 ======
