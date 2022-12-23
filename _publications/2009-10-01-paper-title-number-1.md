@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Teaming Up with Industry: Using Internships to Collect Ethnographic Data"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'In this assignment, students partner with a company to explore knowledge transfer between millennials andbaby boomer employees. They use methods learned in a qualitative marketing research class, including focus groups and depth interviews. Along with the in-depth experiential learning the students gain, the findings are useful to the client company. In this study, for example, the students’research revealed overarchingthemes that are key for transferring generationalknowledge.  Three  specific  themes  involved  therebranding of the internal company structure through(1) promoting organic mentorship, (2) reframing train-ing to employees, and (3) removing the stigmatizationof retirement to allow for better succession planning.'
+date: 2019-10-01
+venue: 'Marketing Education Review'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
