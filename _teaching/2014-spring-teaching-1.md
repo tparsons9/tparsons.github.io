@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "TA, Regression Analysis"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Georgia Institute of Technology, ISYE"
+date: 2021-01-01
+location: "Atlanta, GA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
