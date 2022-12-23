@@ -3,7 +3,7 @@ title: "Perception of Rural Access to Healthcare:
 Information Assymetry, Distance-Effect, and Nudges"
 permalink: "files/Health_Access_Paper.pdf"
 excerpt: "There is a limited understanding of how spatial distance affects the perception of health access in rural
-communities...<br/><img src='/images/500x300.png'>"
+communities...<br/><img src='/images/farmer.png'>"
 collection: portfolio
 ---
 
